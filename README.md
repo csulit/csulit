@@ -6,7 +6,7 @@ Full-stack dev who loves TypeScript, React, and deploying to the edge. Always sh
 
 - 🔨 Building my [portfolio](https://cgelo.dev) with TanStack Start + Cloudflare Workers
 - 🌱 Exploring edge computing and AI tooling
-- 💼 Senior Software Engineer at [KMC Solutions](https://kmc.solutions) & [Bee Techy](https://beetechy.com) (LA-based software development agency)
+- 💼 Team Lead at [KMC Solutions](https://kmc.solutions) & [Bee Techy](https://beetechy.com) (LA-based software development agency)
 
 #### Tech I work with
 
