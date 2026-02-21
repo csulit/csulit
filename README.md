@@ -14,6 +14,7 @@ Full-stack dev who loves TypeScript, React, and deploying to the edge. Always sh
 **Frontend:** React · TanStack Start/Router · Tailwind CSS · Framer Motion  
 **Backend:** Cloudflare Workers · Node.js · Hono · Drizzle ORM  
 **Data:** D1/SQLite · PostgreSQL · Neon  
+**AI/ML:** Claude · OpenAI · Vercel AI SDK · LangChain · pgvector · Hugging Face  
 **Infra:** Cloudflare · Vite · Docker
 
 #### Links
